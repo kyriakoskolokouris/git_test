@@ -1,1 +1,1 @@
-This is Kyriakos' first hit project
+This is Kyriakos' first git project
